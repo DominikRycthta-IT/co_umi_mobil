@@ -1,2 +1,2 @@
-# co_umi_mobil
-Prezentace o stabilizaci telefonu v mobilu.
+# jak funguje stabilizace obrazu
+Prezentace IT1P1 - **Dominik Rychta**, **Karel Gryga**
